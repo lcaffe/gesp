@@ -24,6 +24,7 @@
   -  bootadmin (verde, vermelho, amarelo e cinza)
   -  terminal 
   -  kibana
+- Me explica o porquê daqueles arquivos values.yaml na estrutura kube do gitlab.
 
 
 
