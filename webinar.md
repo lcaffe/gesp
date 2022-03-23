@@ -6,8 +6,9 @@
 
 ## Tema(s):
 - Porque tenho que cadastrar minha API?
-  - Template para solicição
+  - Template para solicitação
   - Critérios para criar uma API
+    - Apresentar o template e o fluxo
     - Melhores práticas:
       - Onde o recurso deve estar? Qual o domínio?
 - Explorando a API Manager dos Correios.
