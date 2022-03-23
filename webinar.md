@@ -21,7 +21,7 @@
     - Padronização/template de solicitação de acesso entre APIs e Sistema/API
 - Como monitorar sua API?
   -  CWS (Status)
-  -  bootadmin
+  -  bootadmin (verde, vermelho, amarelo e cinza)
   -  terminal 
   -  kibana
 
