@@ -11,10 +11,10 @@
    -  circuit break   
  - Apresentar as características da autenticação e autorização das APIs
 - Como monitorar sua API?
- -  CWS (Status)
- -  bootadmin
- -  terminal 
- -  kibana
+  -  CWS (Status)
+  -  bootadmin
+  -  terminal 
+  -  kibana
 - Porque tenho que cadastrar minha API?
 
 
