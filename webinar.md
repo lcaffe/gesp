@@ -8,6 +8,7 @@
 - Explorando a API Manager dos Correios.
  - Apresentar as características mais importantes do Gateway
    -  timeout
+      -  relação com a performance de querys
    -  circuit break   
  - Apresentar as características da autenticação e autorização das APIs
 - Como monitorar sua API?
