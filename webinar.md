@@ -9,7 +9,7 @@
   - Template para solicição
   - Critérios para criar uma API
     - Melhores práticas:
-      - Onde o recurso deve estar?
+      - Onde o recurso deve estar? Qual o domínio?
 - Explorando a API Manager dos Correios.
   - Apresentar as características mais importantes do Gateway
     -  timeout
