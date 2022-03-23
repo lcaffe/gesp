@@ -6,6 +6,8 @@
 
 ## Tema(s):
 - Porque tenho que cadastrar minha API?
+  - Template para solicição
+  - Critérios para criar uma API
 - Explorando a API Manager dos Correios.
   - Apresentar as características mais importantes do Gateway
     -  timeout
