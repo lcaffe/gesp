@@ -25,8 +25,9 @@
   -  bootadmin (verde, vermelho, amarelo e cinza)
   -  terminal 
   -  kibana
-- Me explica o porquê daqueles arquivos values.yaml na estrutura kube do gitlab
-  - Primeiro explicar porque está em outra árvore no git (quesões de segurança)
+- O que é kubernetes?
+  - Me explica o porquê daqueles arquivos values.yaml na estrutura kube do gitlab
+    - Primeiro explicar porque está em outra árvore no git (quesões de segurança)
 
 
 
