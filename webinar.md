@@ -15,6 +15,7 @@
        -  relação com outras apis
     - circuit break   
   - Apresentar as características da autenticação e autorização das APIs
+    - Padronização/template de solicitação de acesso entre APIs e Sistema/API
 - Como monitorar sua API?
   -  CWS (Status)
   -  bootadmin
