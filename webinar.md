@@ -13,6 +13,7 @@
       - Onde o recurso deve estar? Qual o domínio?
 - Explorando a API Manager dos Correios.
   - Apresentar as características mais importantes do Gateway
+    - O que é um gateway?
     -  timeout
        -  relação com a performance de querys (* tempos de resposta)
        -  relação com outras apis
