@@ -17,6 +17,8 @@
     -  timeout
        -  relação com a performance de querys (* tempos de resposta)
        -  relação com outras apis
+       - como contornar?
+         -  recursos assíncronos
     - circuit break   
   - Apresentar as características da autenticação e autorização das APIs
     - Padronização/template de solicitação de acesso entre APIs e Sistema/API
