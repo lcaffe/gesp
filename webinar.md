@@ -5,6 +5,7 @@
 - Discussão (pode ser estilo fishbowl) sobre o tema da apresentação.
 
 ## Tema(s):
+- Porque tenho que cadastrar minha API?
 - Explorando a API Manager dos Correios.
   - Apresentar as características mais importantes do Gateway
     -  timeout
@@ -17,6 +18,6 @@
   -  bootadmin
   -  terminal 
   -  kibana
-- Porque tenho que cadastrar minha API?
+
 
 
