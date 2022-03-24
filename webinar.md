@@ -4,7 +4,7 @@
 - Breve explanação sobre um ou mais assunto(s)
 - Discussão (pode ser estilo fishbowl) sobre o tema da apresentação.
 
-## Tema(s):
+## Tema: Visão geral da plataforma de API's
 - Porque tenho que cadastrar minha API?
   - Template para solicitação
   - Critérios para criar uma API
