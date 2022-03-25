@@ -36,7 +36,7 @@
 
 ## Abertura
 
-- Apresentar as pessoas e onde trabalham e com o que estão trabalhando atualmente:
+- Apresentar as pessoas, onde trabalham e suas atividades no momento:
    - Claiton
    - Léo
    - Rafael
