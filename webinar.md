@@ -32,4 +32,24 @@
     - Primeiro explicar porque está em outra árvore no git (quesões de segurança)
 
 
+# Roteiro
+
+## Abertura
+
+- Apresentar as pessoas e onde trabalham e com o que estão trabalhando atualmente:
+   - Claiton
+   - Léo
+   - Rafael
+   - Thiago
+- Agenda:
+  - Apresentando a API Manager 
+    - Mas o que é API Manager?
+    - Correios WebServices (CWS)
+      - Obtendo informações valiosas sobre a minha API...
+    - Explicando a API Gateway
+      - Timeouts 
+      - 
+
+
+
 
