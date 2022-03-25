@@ -41,6 +41,8 @@
    - Léo
    - Rafael
    - Thiago
+- Objetivo:
+  - Nosso objetivo é que ao final da nossa apresentação, vocês compreendam um pouco mais a nossa plataforma de API's.
 - Agenda:
   - Apresentando a API Manager 
     - Mas o que é API Manager?
